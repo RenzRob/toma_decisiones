@@ -145,7 +145,7 @@ const App = () => {
                 columnNames={columnNames}
             />
 
-            <h1>Decisiones bajo condiciones de riesgo</h1>
+            <h1>Decision bajo condiciones de riesgo</h1>
             <BeneficioEsperadoMatriz 
                 data={data} 
                 rows={data.length} 
